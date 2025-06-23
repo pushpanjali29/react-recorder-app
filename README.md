@@ -1,0 +1,1 @@
+This is a simple React.js application that allows users to record either audio or video using the browser's MediaRecorder API. The app supports mode toggling, preview of recorded media, and downloads.
